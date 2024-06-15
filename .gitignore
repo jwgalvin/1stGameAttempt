@@ -1,0 +1,10 @@
+# Unreal Engine
+*.uasset
+*.umap
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
